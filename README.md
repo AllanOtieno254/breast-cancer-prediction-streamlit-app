@@ -2,6 +2,9 @@
 
 ## 🧠 Overview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f31bfe15-0531-4d71-a374-a5952470e3e1" />
+
+
 This application uses a pre-trained Logistic Regression model to classify tumors using features extracted from **Breast Cancer Wisconsin dataset**. The app lets users input numerical features of cell nuclei (e.g. radius mean, perimeter worst, texture se, etc.) using sliders on the sidebar. These inputs are then scaled and passed to the model, which generates a prediction.
 
 Additionally, a **radar chart** visualizes the relative scale of the features for better interpretability.
